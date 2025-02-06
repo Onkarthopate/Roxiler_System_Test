@@ -1,0 +1,24 @@
+.Header-comp{
+    padding: 10px 20px;
+}
+
+.Header-comp div{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.navlink{
+    text-decoration: none;
+    color: rgb(1, 1, 1);
+    font-size: 2rem;
+    padding: 7px;
+    
+    padding-bottom: 10px;
+}
+
+
+.active{
+    border: 2px solid rgb(69, 213, 107);
+    text-decoration: underline rgb(214, 28, 28);
+}
